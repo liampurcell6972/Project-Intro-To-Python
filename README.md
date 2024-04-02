@@ -1,5 +1,4 @@
 # Project-Intro-To-Python
-# For this project I want to elaborate on another project that I did a long time ago in my linear algebra class.  Basically I had to manually encrypt something, this was my choice of topic, I did the first few by hand, but as it was a long monologue that I translated, I wrote some very basic, jenky code to automate the matrix multiplication for me using num.py . 
-#  My translation was also from Japanese to English and that can get kind of weird, doing some cursory research let me see that there are ways to accept japanese inputs with python and have them be translated and worked with better than phonetic translation like I did.  
-# So in total my project would take input for language to language, encrypt, and return an encrypted message.  It would of course also work backwards decrypting messages. The encryption and decryption keys would also be input by the user.  I could potentially learn how to do some UI stuff as well so it looks a little prettier, but that seems very difficult to me 
-# I'm open to input on the method of encryption, my original idea was to use the same method that I used for my original project, I'll drop the original paper in the repo, but if something more elaborate would be better, just let me know
+# For my project, I am going to do question 4.21 from Dasgupta's Algorithms.  There are 3 levels to this problem, first an proof of concept of the algorithm, applying it to some old currency exchange rate.
+# The next level would be having the algorithm download new data every 15 minutes or so and updating itself.
+# Finally you could have the program constantly running downloading new data and calculating the most effieicnt/ profitable route for trading currencies.
