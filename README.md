@@ -4,3 +4,4 @@
 # Finally you could have the program constantly running downloading new data and calculating the most effieicnt/ profitable route for trading currencies.
 # This project did not turn out exactly how I wanted, but I am happy with the result, rather than applying my algorithms to data, which was hard to find in a usuable form, my algorithms are to be applied to randomly generated exchange rates and finds both shortest paths and potential arbitrage opportunities.
 # Python libraries 'netowrkX' and 'matplotlib.plotpy' were invaluable when working through this project, but it certainly could have beend one without them.
+# Here is a link to the youtube video explaining most of my code, https://youtu.be/j76a7MVrhwU
