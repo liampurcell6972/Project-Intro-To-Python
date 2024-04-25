@@ -1,0 +1,10 @@
+original currency,end currency,rate
+,,
+usd,yen,110.25
+yen,eur,0.007709751
+eur,usd,1.176470588
+,,
+,,
+usd,yen,.75
+yen,eur,5
+eur,usd,1
