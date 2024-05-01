@@ -4,7 +4,7 @@
 # Finally you could have the program constantly running downloading new data and calculating the most effieicnt/ profitable route for trading currencies.
 # This project did not turn out exactly how I wanted, but I am happy with the result, rather than applying my algorithms to data, which was hard to find in a usuable form, my algorithms are to be applied to randomly generated exchange rates and finds both shortest paths and potential arbitrage opportunities.
 # Python libraries 'networkX' and 'matplotlib.plotpy' were invaluable when working through this project, but it certainly could have beend one without them.
-# Here is a link to the youtube video explaining most of my code, https://youtu.be/j76a7MVrhwU
+# Here is a link to the youtube video explaining most of my code, [https://youtu.be/j76a7MVrhwU](https://youtu.be/j3l87ks1mrA)
 
 # Challenges with this project were minor, but felt incredibly major.  For example representing graphs in python was not something I was prepared for and to have found more than one way through research, the dictionaries and networkX application, really made me proud of myself.  I also really struggled with the algorithms, both figuring out how to move through a graph in the way I wanted, then applying them, then applying the right one.  I believe I state in the video that I thought I would just be able to use a Dijkstra Algorithm as it finds the shortest path, then I encountered negative values, so I had to learn about Bellman-Ford Algorithms, then I learned BF Algorithms can't handle negative cycles, and I learned about the Johnson Algorithm and admittedly I didn't think it would be that difficult.  
 
