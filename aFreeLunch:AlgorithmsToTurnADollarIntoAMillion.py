@@ -1,6 +1,6 @@
 #A free lunch, algorithms to turn a dollar into a million
 #By Liam Purcell
-#video describing the code - https://youtu.be/j76a7MVrhwU
+#video describing the code - https://youtu.be/j3l87ks1mrA
 
 #I apologize for some of the informality in this project, I was taking a lot of notes for myself in the #s, some are real though processes others are me losing it
 
